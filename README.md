@@ -1,2 +1,2 @@
 # docker-cops
-Docker Alpine Cops Image
+Docker Alpine Cops Image with Apache and PHP
